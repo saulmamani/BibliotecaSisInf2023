@@ -1,0 +1,13 @@
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\bin\Debug\BibliotecaSisInf.exe.config
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\bin\Debug\BibliotecaSisInf.exe
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\bin\Debug\BibliotecaSisInf.pdb
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\obj\Debug\BibliotecaSisInf.csproj.AssemblyReference.cache
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\obj\Debug\BibliotecaSisInf.csproj.SuggestedBindingRedirects.cache
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\obj\Debug\BibliotecaSisInf.Form1.resources
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\obj\Debug\BibliotecaSisInf.Properties.Resources.resources
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\obj\Debug\BibliotecaSisInf.csproj.GenerateResource.cache
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\obj\Debug\BibliotecaSisInf.csproj.CoreCompileInputs.cache
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\obj\Debug\BibliotecaSisInf.exe
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\obj\Debug\BibliotecaSisInf.pdb
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\obj\Debug\BibliotecaSisInf.FrmIniciarSession.resources
+D:\Docencia2023\proyecto\BibliotecaSisInf\BibliotecaSisInf\obj\Debug\BibliotecaSisInf.FrmPrincipal.resources
